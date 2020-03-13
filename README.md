@@ -3,7 +3,7 @@
 * npm install
 * npm start
 
-## For Login(http://localhost:5000/api/users/login)
+## For Login(https://login-task1.herokuapp.com/api/users/login)
 * username
 * password
 #### Example (to test the endpoints)
@@ -12,7 +12,7 @@
     "password":"anything"
 }
 
-## For Register(http://localhost:5000/api/users/register)
+## For Register(https://login-task1.herokuapp.com/api/users/register)
 * username
 * email
 * password
