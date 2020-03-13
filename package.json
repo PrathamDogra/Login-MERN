@@ -1,11 +1,11 @@
 {
   "name": "internship-task",
   "version": "1.0.0",
-  "description": "",
+  "description": "* cd Internship-Task\r * npm install\r * npm start",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -24,5 +24,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrathamDogra/Internship-Task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PrathamDogra/Internship-Task/issues"
+  },
+  "homepage": "https://github.com/PrathamDogra/Internship-Task#readme"
 }
